@@ -178,6 +178,10 @@ hr {
     background-color: #DD0000;
     color: #fff;
 }
+button.blog-btn a {
+    text-decoration: none;
+    color: #000;
+}
 
 @media only screen and (max-width: 992px) {
     .top {
